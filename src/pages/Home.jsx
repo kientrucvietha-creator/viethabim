@@ -44,7 +44,9 @@ const STATS = [
 export default function Home() {
   return (
     <div className="home">
-
+        <div style={{background:'#7B1C1C', color:'#fff', textAlign:'center', padding:'10px', fontSize:'14px', fontWeight:'600', letterSpacing:'2px'}}>
+        🚧 TRANG WEB ĐANG XÂY DỰNG! 🚧
+        </div>
       <section className="hero">
         <div className="container hero-inner">
           <p className="hero-eyebrow">Công ty Cổ phần Kiến trúc Việt Hà</p>
